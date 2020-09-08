@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="General">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/General/General.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="FAQ">
+      <TocEntry
+        Title="Subcatergories"
+        StartSection="false">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/General/FAQ/Subcatergories/Subcategories.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="Sure2"
+          Link="/Content/General/FAQ/Subcatergories/Sure2.htm"
+          MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      </TocEntry>
+      <TocEntry
+        Title="Topic Title"
+        Link="/Content/General/FAQ/Topic.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/General/FAQ/FAQ.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Sure"
+      Link="/Content/General/Sure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

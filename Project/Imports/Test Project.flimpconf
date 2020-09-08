@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConfluenceImport
+  ImportFolder=""
+  Server="https://testmadcap.atlassian.net/"
+  SelectedSpace="TP"
+  KeepSourceLinks="false"
+  LastImport="2020-09-08T10:16:32.0066414-07:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="https://testmadcap.atlassian.net/wiki/spaces/TP/pages/196610"
+      AbsoluteSource="https://testmadcap.atlassian.net/wiki/spaces/TP/pages/196610" />
+    <Url
+      Source="https://testmadcap.atlassian.net/wiki/spaces/TP/pages/229377"
+      AbsoluteSource="https://testmadcap.atlassian.net/wiki/spaces/TP/pages/229377" />
+    <Url
+      Source="https://testmadcap.atlassian.net/wiki/spaces/TP/pages/458753"
+      AbsoluteSource="https://testmadcap.atlassian.net/wiki/spaces/TP/pages/458753" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Test_Project.htm"
+      TimeStamp="9/8/2020 10:16:23 AM" />
+    <Url
+      Source="../../Content/This_is_a_test.htm"
+      TimeStamp="9/8/2020 10:16:23 AM" />
+    <Url
+      Source="../../Content/This_is_a_child_test_page.htm"
+      TimeStamp="9/8/2020 10:16:23 AM" />
+    <Url
+      Source="../TOCs/Test Project.fltoc"
+      TimeStamp="9/8/2020 10:16:31 AM" />
+  </GeneratedFiles>
+</ConfluenceImport>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Test Project" Link="/Content/Test_Project.htm">
+        <TocEntry Title="This is a test" Link="/Content/This_is_a_test.htm">
+            <TocEntry Title="This is a child test page" Link="/Content/This_is_a_child_test_page.htm" />
+        </TocEntry>
+    </TocEntry>
+</CatapultToc>

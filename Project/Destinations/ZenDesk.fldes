@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="madcapsoftwarehelp.zendesk.com"
+  User="MyAccountId"
+  Password=""
+  Directory="oauth/authorizations/new"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="zendesk"
+  ClickUrl="https://madcapsoftwarehelp.zendesk.com"
+  DefaultCategory="360004520173"
+  DefaultSection="360009788613"
+  PermissionGroup="2548053"
+  PublishAfterUpload="true"></CatapultDestination>
